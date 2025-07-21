@@ -199,3 +199,5 @@ Special thanks to:
 - [tandpfun](https://github.com/tandpfun) for [skill-icons](https://github.com/tandpfun/skill-icons);
 
 [Back to:arrow_up:](#vite-react-javascript--starter-template "Back to 'Table of contents' section")
+
+# 
