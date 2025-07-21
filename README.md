@@ -200,4 +200,3 @@ Special thanks to:
 
 [Back to:arrow_up:](#vite-react-javascript--starter-template "Back to 'Table of contents' section")
 
-# Hi I have tried to update my readme
